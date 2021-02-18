@@ -1,1 +1,1 @@
-nodejs_trainning
+nodejs_training
